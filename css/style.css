@@ -40,6 +40,10 @@ header {
   padding: 1.5em 0;
 }
 
+ul {
+  padding: 0;
+}
+
 li {
   list-style-type: none;
   padding: border-box;
@@ -111,7 +115,7 @@ figcaption {
 .icon > img {
   width: 260px;
   float: left;
-  margin: 2em;
+  margin-right: 2em;
 }
 
 .fashion-icons > p {
